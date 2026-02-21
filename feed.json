@@ -2,8 +2,8 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "SOUNDWORKS",
     "description": "",
-    "home_page_url": "http://soundworks.judekerr.com",
-    "feed_url": "http://soundworks.judekerr.com/feed.json",
+    "home_page_url": "https://soundworks.judekerr.com",
+    "feed_url": "https://soundworks.judekerr.com/feed.json",
     "user_comment": "",
     "author": {
         "name": "Jude Kerr"
